@@ -1,0 +1,11 @@
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank.deps.json
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank.runtimeconfig.json
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank.runtimeconfig.dev.json
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank.dll
+/home/maher/work/Hacker-Rank/bin/Debug/netcoreapp3.1/Hacker-Rank.pdb
+/home/maher/work/Hacker-Rank/obj/Debug/netcoreapp3.1/Hacker-Rank.csprojAssemblyReference.cache
+/home/maher/work/Hacker-Rank/obj/Debug/netcoreapp3.1/Hacker-Rank.AssemblyInfoInputs.cache
+/home/maher/work/Hacker-Rank/obj/Debug/netcoreapp3.1/Hacker-Rank.AssemblyInfo.cs
+/home/maher/work/Hacker-Rank/obj/Debug/netcoreapp3.1/Hacker-Rank.dll
+/home/maher/work/Hacker-Rank/obj/Debug/netcoreapp3.1/Hacker-Rank.pdb
