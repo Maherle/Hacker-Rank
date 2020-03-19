@@ -6,7 +6,7 @@ namespace Hacker_Rank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is just a program that holds my solutions for hacker rank problems.");
         }
     }
 }
